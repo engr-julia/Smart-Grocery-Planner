@@ -1,6 +1,6 @@
 # 🛒 Smart Grocery Budget Planner
 
-![Grocery Budget Planner Screenshot]("Screenshot 2025-05-23 122712.png")
+![Grocery Budget Planner Screenshot]()
 
 ## 📌 Overview
 
