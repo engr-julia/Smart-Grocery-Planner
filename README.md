@@ -1,6 +1,6 @@
 # 🛒 Smart Grocery Budget Planner
 
-![Grocery Budget Planner Screenshot]()
+![Grocery Budget Planner Screenshot](./GPLANNER.jpg)
 
 ## 📌 Overview
 
